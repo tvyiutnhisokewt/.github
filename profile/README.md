@@ -1,4 +1,4 @@
-![](ext.png)
+![](../ext.png)
 
 Evolution X (and maybe more) custom releases of Pixel 4 XL (coral), Pixel 6a (bluejay)
 
