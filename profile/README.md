@@ -2,7 +2,7 @@
 
 ![](../15_ext.png)
 
-```sh
+```bash
 ln -sf /dev/gf/* /dev/vy
 ```
 
