@@ -1,6 +1,10 @@
-### <img src="../15_logo.svg" width="100" height="100">
+### <img src="../15_logo.svg" width="100" height="100"> 
 
 ![](../15_ext.png)
+
+```sh
+ln -sf /dev/gf/* /dev/vy
+```
 
 Evolution X (and maybe more) custom releases of Pixel 4 XL (coral), Pixel 6a (bluejay)
 
