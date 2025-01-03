@@ -6,7 +6,7 @@
 ln -sf /dev/gf/* /dev/vy
 ```
 
-Evolution X (and maybe more) custom releases of Pixel 6a (bluejay), Pixel 7 Pro (cheetah).
+Evolution X, LineageOS (and maybe more) custom releases of Pixel 6a (bluejay), Pixel 7 Pro (cheetah).
 
 builds made by nhansp. tested by yuuki. Evolution X is made by its creators.
 
