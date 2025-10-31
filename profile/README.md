@@ -1,8 +1,8 @@
 Hi,
 
-I've come to decide to archive this repository due to the fact that I am no longer talking to the other guy in this organization...
+I've come to decide to archive this organization due to the fact that I am no longer talking to the other guy...
 
-This organization has served as my code playground, but also to maintain my custom Pixel 6a (`bluejay`) Evolution X builds to the other guy. You'll find:
+This organization has served as my code playground, but also to maintain my custom Pixel 6a (`bluejay`) Evolution X builds to him. You'll find:
 
 * device trees,
 * kernel source, which includes the 90hz mod for `bluejay` (note that there's likely a chance that the display will turn green-ish due to overclocking),
